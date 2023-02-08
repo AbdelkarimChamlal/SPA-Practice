@@ -1,35 +1,18 @@
 # news-homepage
+this is a challenge from [frontendmentor](frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
+## desktop preview
+![desktop](https://user-images.githubusercontent.com/56797036/217616340-8950b352-4f17-4987-8986-df8c8e95a9f9.PNG)
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## mobile preview
+![mobile](https://user-images.githubusercontent.com/56797036/217616389-83905b42-e640-4bbc-ae1b-9637fed1fa54.PNG)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
+## design
 ```sh
-npm install
+frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
 ```
 
-### Compile and Hot-Reload for Development
-
+## run
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
