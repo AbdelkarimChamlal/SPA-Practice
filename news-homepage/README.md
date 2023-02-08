@@ -1,5 +1,5 @@
 # news-homepage
-this is a challenge from [frontendmentor](frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
+this is a challenge from [frontendmentor](https://frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
 ## desktop preview
 ![desktop](https://user-images.githubusercontent.com/56797036/217616340-8950b352-4f17-4987-8986-df8c8e95a9f9.PNG)
 
@@ -9,7 +9,7 @@ this is a challenge from [frontendmentor](frontendmentor.io/challenges/news-home
 
 ## design
 ```sh
-frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
+https://frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
 ```
 
 ## run
